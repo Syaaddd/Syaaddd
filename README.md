@@ -1,5 +1,5 @@
-# Hi 👋, I'm Dhruva Bhat S N
-## A passionate web-developer from India
+# Hi 👋, I'm Arsyad
+## A passionate web-developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvabhat24&label=Profile%20views&color=00ff00&style=plastic" alt="dhruvabhat24" /> </p>
 
@@ -15,12 +15,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Autonomous Telemetry Hub**
-- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
-- 👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
-- 💬 Ask me about **Java HTML CSS JavaScript**
-- 📫 How to reach me **dhruvabhat24@gmail.com dhruvabhat2003@gmail.com**
-- ⚡ Fun fact **I am not only a man behind the computer.**
 
 ### Connect with me:
 <p align="left">
