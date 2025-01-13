@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Welcome!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h1 align="center">Hi there, I'm Arsyad! 👋  </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Glad+to+see+you+here!;Explore+My+Projects!;Feel+Free+to+Collaborate!" />
+</p>
 
 ---
 
