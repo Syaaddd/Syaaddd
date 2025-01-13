@@ -4,9 +4,11 @@
 
 ---
 
-## 🎉 Fun Animation  
+## 🎮 Play Tetris While You're Here!  
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Coding Animation" width="200" />
+  <a href="https://tetris.com/play-tetris" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Tetris-Click%20Here-green?style=for-the-badge" alt="Play Tetris" />
+  </a>
 </p>
 
 ---
