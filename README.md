@@ -12,9 +12,9 @@
 
 ---
 
-## 🚀 Welcome!  
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35" alt="Waving Banner" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Syaaddd&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
