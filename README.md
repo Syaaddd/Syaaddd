@@ -14,7 +14,7 @@
 
 ## 🕹️ Contribution Snake  
 <p align="center">
-  <img src="https://github.com/yourusername/Syaaddd/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/Syaaddd/Syaaddd/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
