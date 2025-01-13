@@ -12,13 +12,10 @@
 
 ---
 
-## 🏙️ GitHub Skyline  
+## 🚀 Welcome!  
 <p align="center">
-  <a href="https://skyline.github.com/Syaaddd/2023" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Skyline-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35" alt="Waving Banner" />
 </p>
-
 
 ---
 
