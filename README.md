@@ -1,5 +1,9 @@
 <p align="center">
-  # Hi there, I'm Arsyad! 👋  
+  <img src="https://activity-graph.herokuapp.com/graph?username=Syaaddd&bg_color=1a1b27&color=f7d745&line=61dafb&point=fdfdfd&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  Hi there, I'm Arsyad! 👋  
 </p>
 
 ---
