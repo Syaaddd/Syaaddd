@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <h2>Hi there, I'm Arsyad! 👋  </h2>
+  <h2 align="center">Hi there, I'm Arsyad! 👋  </h2>
 </p>
 
 ---
