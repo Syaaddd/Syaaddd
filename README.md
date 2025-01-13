@@ -1,14 +1,7 @@
 # Hi there, I'm Arsyad! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75990&lines=Welcome+to+my+GitHub+Profile!;I+love+coding!;Open+to+collaboration!)
-
----
-
-## 🎮 Play Tetris While You're Here!  
 <p align="center">
-  <a href="https://tetris.com/play-tetris" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-Click%20Here-green?style=for-the-badge" alt="Play Tetris" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35" />
 </p>
 
 ---
