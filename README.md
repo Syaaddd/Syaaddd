@@ -2,10 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlignY=35" />
 </p>
 
-
-<p align="center">
-  <h2 align="center">Hi there, I'm Arsyad! 👋  </h2>
-</p>
+<h1 align="center">Hi there, I'm Arsyad! 👋  </h1>
 
 ---
 
