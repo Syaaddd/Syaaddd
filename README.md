@@ -12,10 +12,13 @@
 
 ---
 
-## 🕹️ Contribution Snake  
+## 🏙️ GitHub Skyline  
 <p align="center">
-  <img src="https://github.com/Syaaddd/Syaaddd/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <a href="https://skyline.github.com/Syaaddd/2023" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Skyline-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+  </a>
 </p>
+
 
 ---
 
