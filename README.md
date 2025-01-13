@@ -1,6 +1,13 @@
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Arsyad! 👋  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75990&lines=Welcome+to+my+GitHub+Profile!;I+love+coding!;Open+to+collaboration!)
+
+---
+
+## 🎉 Fun Animation  
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Coding Animation" width="200" />
+</p>
 
 ---
 
