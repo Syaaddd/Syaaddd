@@ -13,11 +13,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syaaddd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-<h1 align="center"> 🏆 GitHub Trophies  </h1>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Syaaddd&theme=radical" alt="GitHub Trophies" />
-</p>
-
----  
