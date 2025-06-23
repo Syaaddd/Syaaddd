@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&width=600&lines=Hi+there!+I’m+Syadd+Tzy.;Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Open+Source+Lover+%7C+Minecraft+Plugin+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&width=600&lines=Hi+there!+I’m+Syadd.;Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Open+Source+Lover+%7C+Minecraft+Plugin+Creator" />
 </p>
 
 ---
