@@ -32,12 +32,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaaddd&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Syaaddd&theme=github_dark&hide_border=true" alt="Wakatime Stats" />
-</div>
-
 ## 💫 Profile Views
 
 <div align="center">
