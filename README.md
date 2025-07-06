@@ -32,12 +32,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaaddd&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Syaaddd&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
