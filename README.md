@@ -43,28 +43,27 @@ Experienced **Software Engineer** specializing in **Java ecosystem** with a focu
 ## Performance Analytics
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="center">
 
 **Development Statistics**
-<img src="https://github-readme-stats.vercel.app/api?username=Syaaddd&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2937&text_color=374151&icon_color=6366f1&ring_color=6366f1&border_radius=8" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Syaaddd&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2937&text_color=374151&icon_color=6366f1&ring_color=6366f1&border_radius=8&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Statistics" />
 
 </td>
 <td width="50%" align="center">
 
 **Technology Distribution**
 </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syaaddd&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2937&text_color=374151&border_radius=8&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syaaddd&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1f2937&text_color=374151&border_radius=8&langs_count=8&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
 
-**Contribution Metrics**
+**Comprehensive Contribution Metrics**
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Syaaddd&theme=default&hide_border=true&background=ffffff&ring=6366f1&fire=f59e0b&currStreakLabel=1f2937&sideLabels=374151&dates=6b7280&currStreakNum=1f2937&sideNums=1f2937&border_radius=8" alt="Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Syaaddd&theme=default&hide_border=true&background=ffffff&ring=6366f1&fire=f59e0b&currStreakLabel=1f2937&sideLabels=374151&dates=6b7280&currStreakNum=1f2937&sideNums=1f2937&border_radius=8&include_all_commits=true" alt="Contribution Streak" />
 
 </div>
 
