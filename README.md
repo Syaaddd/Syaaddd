@@ -29,8 +29,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syaaddd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syaaddd&layout=compact&theme=github_dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syaaddd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syaaddd&layout=compact&theme=github_dark&hide_border=true&cache_seconds=7200"/>
 </div>
 
 <div align="center">
@@ -40,7 +38,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaaddd&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
-
 
 ## 📈 Contribution Graph
 
