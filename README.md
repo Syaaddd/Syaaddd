@@ -35,7 +35,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syaaddd)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strxshopxlb@gmail.com)
 
-**Available for:** `Technical Consulting` • `Open Source Collaboration` • `Code Review` • `Mentoring`
+**Available for:** `Open Source Collaboration` • `Code Review`
 
 ---
 
